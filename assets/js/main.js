@@ -1,8 +1,4 @@
-/*
-	Visualize by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
+
 
 $(function() {
 
@@ -28,7 +24,7 @@ $(function() {
 		});
 
 	// Poptrox.
-		$window.on('load', function() {
+		/*$window.on('load', function() {
 
 			$('.thumbnails').poptrox({
 				onPopupClose: function() { $body.removeClass('is-covered'); },
@@ -44,6 +40,6 @@ $(function() {
 				windowMargin: (skel.breakpoint('small').active ? 5 : 50)
 			});
 
-		});
+		});*/
 
 });
